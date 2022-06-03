@@ -1,6 +1,11 @@
+h2 {
+  margin: auto auto;
+}
+
 .jumbotron {
   margin: 5% auto;
-  margin-left: 43%;
+  /* margin-left: 43%; */
+  text-align: center;
 }
 
 td {
